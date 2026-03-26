@@ -2,5 +2,5 @@
 
 metadata composition utils,
 
-live at https://epiembed.github.io/compose2 !
+live at https://epiembed.github.io/compose !
  
